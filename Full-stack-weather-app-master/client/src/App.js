@@ -79,7 +79,7 @@ class App extends Component {
       <Col>
         <Jumbotron>
           <h1 className="display-3">Weather</h1>
-          <p className="lead">The current weather for your favorite cities!</p>
+          <p className="lead">The current weather for your favorite cities!!</p>
           <InputGroup>
             <Input
             placeholder="New City name...."
